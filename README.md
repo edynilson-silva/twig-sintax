@@ -1,2 +1,4 @@
-# twig-sintax
-Criei esse repositório para praticar a sintaxe e funcionalidades do Twig
+# Twig
+
+#### Instalação
+> composer require "twig/twig:^3.0"
